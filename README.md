@@ -22,3 +22,4 @@ cargo run --release
 ##### Web
 See [this](https://github.com/not-fl3/macroquad#wasm)
 
+
